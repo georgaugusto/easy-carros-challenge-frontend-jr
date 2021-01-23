@@ -1,0 +1,20 @@
+{
+  "cars": [
+    {
+      "servicesPerformed": "Limpeza",
+      "schedulingDate": "10/10/1010",
+      "executionDate": "10/10/1010",
+      "licensePlate": "kgb-2020",
+      "available": true,
+      "id": 1
+    },
+    {
+      "servicesPerformed": "Troca de oléo",
+      "schedulingDate": "22/01/2021",
+      "executionDate": "",
+      "licensePlate": "kgb-2031",
+      "available": false,
+      "id": 2
+    }
+  ]
+}
